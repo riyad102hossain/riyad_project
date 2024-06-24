@@ -1,0 +1,11 @@
+1 Total_Infected:-
+Infected
+92178  
+
+2 Total_Deaths:-
+Deaths
+1264
+
+3 Total_Recovered:-
+Recovered
+75512
