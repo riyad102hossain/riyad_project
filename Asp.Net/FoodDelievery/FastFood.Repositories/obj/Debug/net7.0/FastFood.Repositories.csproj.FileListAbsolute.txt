@@ -1,0 +1,15 @@
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\bin\Debug\net7.0\FastFood.Repositories.deps.json
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\bin\Debug\net7.0\FastFood.Repositories.dll
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\bin\Debug\net7.0\FastFood.Repositories.pdb
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\bin\Debug\net7.0\FastFood.Models.dll
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\bin\Debug\net7.0\FastFood.Models.pdb
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.csproj.AssemblyReference.cache
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.AssemblyInfoInputs.cache
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.AssemblyInfo.cs
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.csproj.CoreCompileInputs.cache
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.csproj.CopyComplete
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.dll
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\refint\FastFood.Repositories.dll
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\FastFood.Repositories.pdb
+D:\Asp.net project\FoodDelievery\FastFood.Repositories\obj\Debug\net7.0\ref\FastFood.Repositories.dll
