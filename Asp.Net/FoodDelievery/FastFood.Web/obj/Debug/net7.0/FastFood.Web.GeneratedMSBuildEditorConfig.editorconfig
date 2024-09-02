@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FastFood.Web
 build_property.RootNamespace = FastFood.Web
-build_property.ProjectDir = D:\Asp.net project\FoodDelievery\FastFood.Web\
+build_property.ProjectDir = D:\riyad_project\Asp.Net\FoodDelievery\FastFood.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Asp.net project\FoodDelievery\FastFood.Web
+build_property.MSBuildProjectDirectory = D:\riyad_project\Asp.Net\FoodDelievery\FastFood.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Categories/Create.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Categories/Edit.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Categories/Index.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Coupons/Create.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Coupons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cG9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Coupons/Edit.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Coupons/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cG9uc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Coupons/Index.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Coupons/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cG9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Item/Create.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Item/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSXRlbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Item/Edit.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Item/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSXRlbVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/Item/Index.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/Item/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/SubCategories/Create.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/SubCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3ViQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/SubCategories/Edit.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/SubCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3ViQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/Admin/Views/SubCategories/Index.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/Admin/Views/SubCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3ViQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/_ViewImports.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Areas/_ViewStart.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Areas/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Account/Login.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Account/Register.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Home/Index.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Home/Privacy.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Shared/Error.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/_ViewImports.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/_ViewStart.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Asp.net project/FoodDelievery/FastFood.Web/Views/Shared/_Layout.cshtml]
+[D:/riyad_project/Asp.Net/FoodDelievery/FastFood.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ut45lulht9
