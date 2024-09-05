@@ -3463,11 +3463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Asp.net project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectUniqueName": "D:\\riyad_project\\Asp.Net\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "projectName": "PokemonReviewApp",
-      "projectPath": "D:\\Asp.net project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+      "projectPath": "D:\\riyad_project\\Asp.Net\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Asp.net project\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+      "outputPath": "D:\\riyad_project\\Asp.Net\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
