@@ -1,0 +1,120 @@
+﻿@page "{id?}"
+@model Employ_wafi_solution.Pages.Admin.Employee.EditModel
+@{
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 bg-light rounded shadow-sm p-4 border border-info">
+            <h2 class="text-center mb-4 text-info">Edit Employee</h2>
+
+            @if (!string.IsNullOrEmpty(Model.errormessage))
+            {
+                <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+                    <strong>@Model.errormessage</strong>
+                    <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+                </div>
+            }
+            else if (!string.IsNullOrEmpty(Model.successmessage))
+            {
+                <div class='alert alert-success alert-dismissible fade show' role='alert'>
+                    <strong>@Model.successmessage</strong>
+                    <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+                </div>
+            }
+
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">ID</label>
+                    <input readonly class="form-control-plaintext bg-light border-info" value="@Model.Employ.Id" />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">Image</label>
+                    <input type="file" class="form-control border-info" asp-for="DTOEmploy.PhotoPath" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.PhotoPath"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info"></label>
+                    <div>
+                        <img src="/Image/@Model.Employ.PhotoPath" width="70" class="img-thumbnail border-info" />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">First Name</label>
+                    <input class="form-control border-info" asp-for="DTOEmploy.FirstName" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.FirstName"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">Last Name</label>
+                    <input class="form-control border-info" asp-for="DTOEmploy.LastName" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.LastName"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">Email</label>
+                    <input class="form-control border-info" asp-for="DTOEmploy.Email" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.Email"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">Mobile</label>
+                    <input class="form-control border-info" asp-for="DTOEmploy.Mobile" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.Mobile"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-info">Date of Birth</label>
+                    <input type="date" class="form-control border-info" asp-for="DTOEmploy.DateOfBirth" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.DateOfBirth"></div>
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                    <a class="btn btn-secondary" href="/Admin/Employee/Index" role="button">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .bg-light {
+        background-color: #73c6b6 !important;
+    }
+
+    .text-info {
+        color: #4a235a !important;
+    }
+
+    .border-info {
+        border-color: #17a2b8 !important;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+
+    .img-thumbnail {
+        border: 1px solid #17a2b8;
+    }
+</style>
