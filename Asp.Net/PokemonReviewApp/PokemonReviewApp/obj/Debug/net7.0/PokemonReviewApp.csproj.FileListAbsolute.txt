@@ -1,0 +1,154 @@
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\appsettings.Development.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\appsettings.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.exe
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.deps.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.runtimeconfig.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.pdb
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.csproj.AssemblyReference.cache
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.AssemblyInfoInputs.cache
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.AssemblyInfo.cs
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.PokemonReviewApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonReviewApp.props
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonReviewApp.props
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonReviewApp.props
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\scopedcss\bundle\PokemonReviewApp.styles.css
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.csproj.CopyComplete
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\refint\PokemonReviewApp.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.pdb
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.genruntimeconfig.cache
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\ref\PokemonReviewApp.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Azure.Core.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Azure.Identity.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Humanizer.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.CodeDom.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Asp.net project\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\AutoMapper.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\appsettings.Development.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\appsettings.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.exe
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.deps.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.runtimeconfig.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\PokemonReviewApp.pdb
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\AutoMapper.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Azure.Core.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Azure.Identity.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Humanizer.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.CodeDom.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Memory.Data.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.csproj.AssemblyReference.cache
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.AssemblyInfoInputs.cache
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.AssemblyInfo.cs
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.PokemonReviewApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.build.PokemonReviewApp.props
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokemonReviewApp.props
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokemonReviewApp.props
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\scopedcss\bundle\PokemonReviewApp.styles.css
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.csproj.CopyComplete
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\refint\PokemonReviewApp.dll
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.pdb
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\PokemonReviewApp.genruntimeconfig.cache
+D:\riyad_project\Asp.Net\PokemonReviewApp\PokemonReviewApp\obj\Debug\net7.0\ref\PokemonReviewApp.dll

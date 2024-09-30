@@ -1,0 +1,108 @@
+﻿@page
+@model Employ_wafi_solution.Pages.Admin.Employee.CreateModel
+@{
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 bg-light rounded shadow-sm p-4 border border-primary">
+            <h2 class="text-center mb-4 text-primary">Add New Employee</h2>
+
+            @if (!string.IsNullOrEmpty(Model.errormessage))
+            {
+                <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+                    <strong>@Model.errormessage</strong>
+                    <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+                </div>
+            }
+            else if (!string.IsNullOrEmpty(Model.successmessage))
+            {
+                <div class='alert alert-success alert-dismissible fade show' role='alert'>
+                    <strong>@Model.successmessage</strong>
+                    <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+                </div>
+            }
+
+            <form method="post" enctype="multipart/form-data">
+                <div class="form-group mb-3">
+                    <label class="form-label text-primary">First Name</label>
+                    <input class="form-control border-primary" asp-for="DTOEmploy.FirstName" placeholder="Enter first name" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.FirstName"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-primary">Last Name</label>
+                    <input class="form-control border-primary" asp-for="DTOEmploy.LastName" placeholder="Enter last name" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.LastName"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-primary">Image</label>
+                    <input type="file" class="form-control border-primary" asp-for="DTOEmploy.PhotoPath" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.PhotoPath"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-primary">Email</label>
+                    <input type="email" class="form-control border-primary" asp-for="DTOEmploy.Email" placeholder="Enter email" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.Email"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-primary">Mobile</label>
+                    <input type="tel" class="form-control border-primary" asp-for="DTOEmploy.Mobile" placeholder="Enter mobile number" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.Mobile"></div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label text-primary">Date of Birth</label>
+                    <input type="date" class="form-control border-primary" asp-for="DTOEmploy.DateOfBirth" placeholder="Select date of birth" />
+                    <div class="form-text text-danger" asp-validation-for="DTOEmploy.DateOfBirth"></div>
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <a class="btn btn-secondary" href="/Admin/Employee/Index">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<style>
+    .bg-light {
+        background-color: #73c6b6 !important;
+    }
+
+    .text-primary {
+        color: #4a235a !important;
+    }
+
+    .border-primary {
+        border-color: #00FFFF !important;
+    }
+
+    .btn-primary {
+        background-color: #34495e;
+        border-color: #34495e;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
+</style>
